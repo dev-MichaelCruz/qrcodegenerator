@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: QR Code Generator
+
+aws:
+  s3:
+    region: us-east-1
+    bucket-name: bucket-name
